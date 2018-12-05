@@ -1,0 +1,36 @@
+{
+    "lastModified": "2018-11-22T07:45:00.089Z",
+    "target": {
+        "clientCode": "",
+        "timeout": 5
+    },
+    "audienceManager": {
+        "server": "",
+        "analyticsForwardingEnabled": false,
+        "timeout": 5
+    },
+    "acquisition": {
+        "server": "c00.adobe.com",
+        "appid": "6eb63bfb6d9428725007b1f48a452684feec3846d7bb4cf1c1343409a8e989f9"
+    },
+    "analytics": {
+        "rsids": "staacjcaye.ios-mobile.dev",
+        "server": "staacjapanconsulting.sc.omtrdc.net",
+        "ssl": false,
+        "offlineEnabled": false,
+        "charset": "UTF-8",
+        "lifecycleTimeout": 300,
+        "privacyDefault": "optedin",
+        "batchLimit": 0,
+        "timezone": "JST",
+        "timezoneOffset": 540,
+        "referrerTimeout": 0,
+        "backdateSessionInfo": false,
+        "poi": []
+    },
+    "messages": [],
+    "remotes": {
+        "analytics.poi": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-5bf65e8e64746d3e1600e0db.json",
+        "messages": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-5bf65e8d64746d17ce00b247.json"
+    }
+}
